@@ -6,7 +6,7 @@ It is recommended to run the server with at least 3GB memory.
 
 #
 
-There is a security issue with 1.6.4 minecraft, To fix this please include the sessionfix.jar and protocallib.jar from the plugins folder 
+There is a security issue with 1.6.4 minecraft, To fix this please include the SessionFix.jar and ProtocolLib-3.4.0.jar from the plugins folder 
 
 # Contact
 
